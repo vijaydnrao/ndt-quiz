@@ -1,0 +1,214 @@
+Question,Option A,Option B,Option C,Option D,Answer,Method,Level
+What is the most commonly used isotope in gamma radiography of steel?,Cesium-137,Iridium-192,Cobalt-60,Americium-241,B,RT,Level 2
+What is the sensitivity indicator used in RT?,Dosimeter,Radiation meter,Penetrameter,Film cassette,C,RT,Level 2
+"In RT, what increases film contrast?",High kilovoltage,Long exposure,Proper film processing,Short SFD,C,RT,Level 2
+What defect appears as rounded indications in RT?,Crack,Porosity,Lack of fusion,Slag inclusion,B,RT,Level 2
+What does a sharp edge on RT film indicate?,High sensitivity,Lack of fusion,Unsharpness,Proper exposure,D,RT,Level 2
+Why is collimator used in RT?,Magnify image,Control beam size,Increase exposure,Enhance sensitivity,B,RT,Level 2
+What controls sensitivity in RT?,Film speed,Source-to-film distance,Exposure time,Source strength,B,RT,Level 2
+"In RT, what does SFD stand for?",Source focus diameter,Source field dimension,Source-film distance,Scanning film detail,C,RT,Level 2
+What causes scatter in radiographic images?,High energy source,Incorrect angle,Film fog,Backscatter radiation,D,RT,Level 2
+Which defect is best detected by RT?,Internal void,Surface crack,Paint flake,Corrosion pit,A,RT,Level 2
+What is the role of a mask in RT?,Support film,Protect eyes,Restrict beam,Store cassettes,C,RT,Level 2
+Which technique improves contrast in RT?,Proper film washing,Good contact,Grid technique,Double exposure,C,RT,Level 2
+What is the maximum flaw size detectable in RT?,Based on thickness,1 mm,5 mm,Unlimited,A,RT,Level 2
+What affects resolution in radiographic film?,Film grain size,Source activity,Exposure time,Developer type,A,RT,Level 2
+What is the purpose of shimming in RT?,Change exposure,Check sensitivity,Align source,Reduce scatter,B,RT,Level 2
+Which radiation unit measures exposure?,Rem,Roentgen,Gray,Sievert,B,RT,Level 2
+Which code applies to RT in boilers?,ASME Section II,API 650,ASME Section V,AWS D1.1,C,RT,Level 2
+What does lack of side wall fusion look like in RT?,Dark line,Sharp edge,Feathering,Incomplete outline,A,RT,Level 2
+What is a 'hot spot' in radiography?,Defect,Overexposed area,Underdeveloped region,Crack zone,B,RT,Level 2
+Which discontinuity is most common in casting?,Crack,Blow hole,Lamination,Undercut,B,RT,Level 2
+Why are gamma rays used in RT?,High energy,Low cost,Low penetration,Visible results,A,RT,Level 2
+What is half value layer (HVL) in RT?,Thickness reducing exposure by 50%,Half voltage exposure,Half scan time,Half SFD,A,RT,Level 2
+What is penetrameter used for?,Detect film fault,Ensure proper exposure,Evaluate sensitivity,Focus radiation,C,RT,Level 2
+"In RT, which film type is best for high-definition imaging?",Type A,Type B,Type C,Type D,D,RT,Level 2
+What is the purpose of back scatter radiation control in RT?,Improve contrast,Protect film,Avoid false images,Enhance exposure,C,RT,Level 2
+What does SFD stand for in RT?,Source Film Distance,Signal Frequency Drop,Standard Field Data,Scan Field Diameter,A,RT,Level 2
+Which defect appears as a dark round indication on RT film?,Slag inclusion,Blowhole,Crack,Tungsten,B,RT,Level 2
+What is the effect of source-to-film distance in RT?,Higher sensitivity,Lower magnification,Better sharpness,Higher density,C,RT,Level 2
+What does penetrameter verify in RT?,Image sharpness,Exposure time,IQI sensitivity,Film fog level,C,RT,Level 2
+What is the main hazard in RT?,Electrocution,Radiation exposure,Burn,Dust,B,RT,Level 2
+What is the purpose of a lead screen in RT?,Focus beam,Reduce scatter,Improve penetration,Enhance contrast,B,RT,Level 2
+What is the function of stop bath in RT film processing?,Develop film,Stop development,Wash film,Dry film,B,RT,Level 2
+Why is shielding gas not used in RT?,Not required,Costly,Inert,Explosive,A,RT,Level 2
+What causes film fogging in RT?,Light leakage,High energy,Developer concentration,Low density,A,RT,Level 2
+What is the use of penetrameter holes in RT?,Light control,Density measurement,Image quality check,Alignment,C,RT,Level 2
+What is the risk of underexposing RT film?,Too bright image,High density,Poor contrast,Over penetration,C,RT,Level 2
+What causes geometrical unsharpness in RT?,Long SFD,Film thickness,Source size,Thin material,C,RT,Level 2
+What is the key requirement for radiographic interpretation?,Sharp penetrameter,Strong source,Certified interpreter,Thin film,C,RT,Level 2
+What’s a benefit of radiographic testing?,Instant result,Detect internal flaws,Detect micro-cracks,Low cost,B,RT,Level 2
+What is used to control radiation exposure in RT?,X-ray shutter,Collimator,Shielding,All of the above,D,RT,Level 2
+Why are screens used in RT cassettes?,To absorb scatter,For film protection,Improve film contrast,Reduce development time,A,RT,Level 2
+"What is meant by ""IQI"" in RT?",Internal Quality Index,Image Quality Indicator,Indication Quality Index,Inspectable Quality Item,B,RT,Level 2
+Which method is most effective for volumetric flaw detection?,PT,ET,RT,MT,C,RT,Level 2
+Which type of radiation is commonly used in industrial RT?,Alpha,Beta,Gamma,Delta,C,RT,Level 2
+What does an angled indication in RT suggest?,Porosity,Inclusion,Crack,Fusion defect,C,RT,Level 2
+Which parameter affects exposure time in RT?,Voltage only,Current only,Source strength & SFD,Film speed,C,RT,Level 2
+What is the best method for inspecting weld root penetration?,VT,RT,PT,ET,B,RT,Level 2
+"What is meant by ""artifact"" in RT?",Image of defect,False image,Real indication,Film grain,B,RT,Level 2
+Which NDT method is best for real-time weld monitoring?,MT,ET,RT (digital),VT,C,RT,Level 2
+Which NDT method can inspect non-metallic components?,RT,UT,MT,VT,A,RT,Level 2
+What is the role of a collimator in RT?,Block stray radiation,Cool the source,Focus beam,Reduce scatter,C,RT,Level 2
+What is the term for film blackening in RT?,Sensitivity,Contrast,Density,Resolution,C,RT,Level 2
+What is required for proper edge detection in RT?,Sharp IQI,Clean film,Short SFD,Small focal spot,D,RT,Level 2
+What flaw typically appears circular on RT film?,Crack,Porosity,Lack of fusion,Slag,B,RT,Level 2
+Why is double wall exposure used in RT?,For curved objects,Improve contrast,Shorten time,Reduce cost,A,RT,Level 2
+What is the main risk during RT operations?,Explosion,Electrical shock,Radiation exposure,High temperature,C,RT,Level 2
+Why is double-wall double-image (DWDI) technique used in RT?,Reduce exposure time,View inner and outer flaws,Enhance resolution,Film reuse,B,RT,Level 2
+What happens when SFD is increased in RT?,Film contrast improves,Penumbra decreases,Geometric unsharpness decreases,Density reduces,C,RT,Level 2
+Which NDT method is least affected by paint or coating?,PT,ET,MT,RT,D,RT,Level 2
+What is a typical cause for fuzzy images in RT?,Poor focus,Weak source,Improper processing,Large focal spot,D,RT,Level 2
+What is a disadvantage of digital RT over conventional RT?,Instant imaging,Less portable,Costlier equipment,Poorer resolution,C,RT,Level 2
+"In RT, what does IQI test for?",Radiation strength,Film quality,Image sensitivity,Defect shape,C,RT,Level 2
+What is the function of densitometer in RT?,Measure radiation,Measure film blackness,Check exposure time,Measure source size,B,RT,Level 2
+What is the recommended distance between source and film in RT?,As small as possible,Equal to part thickness,Based on SFD ratio,Depends on flaw,C,RT,Level 2
+What is the main hazard when handling radioactive isotopes in RT?,Burns,Toxic fumes,Radiation dose,Pressure,C,RT,Level 2
+What feature enhances image clarity in digital RT?,High source strength,Small focal spot,Long exposure,Large film,B,RT,Level 2
+"What type of discontinuity is ""lack of sidewall fusion""?",Volumetric,Planar,Spherical,Slag,B,RT,Level 2
+What is the unit for measuring gamma exposure?,Sievert,Gray,REM,Roentgen,D,RT,Level 2
+What happens when film is overdeveloped in RT?,Poor contrast,Higher density,Sharper image,Light fog,B,RT,Level 2
+What flaw is detected as random small dots in RT?,Inclusions,Porosity,Slag,Crack,B,RT,Level 2
+What is the most common source in gamma RT?,Cesium-137,Iridium-192,Cobalt-60,X-ray tube,B,RT,Level 2
+What is a major disadvantage of radiography?,High cost,Surface only,Needs electricity,Cannot detect cracks,A,RT,Level 2
+What flaw appears rounded in RT film?,Crack,Lack of fusion,Porosity,Lack of penetration,C,RT,Level 2
+What happens if RT film is fogged?,Higher sensitivity,Brighter image,Loss of contrast,Lower density,C,RT,Level 2
+Which defect in welding is considered planar?,Porosity,Inclusion,Crack,Blow hole,C,RT,Level 2
+What is the role of IQI in RT?,Reduce exposure,Show flaw size,Check image quality,Block radiation,C,RT,Level 2
+What is the main safety requirement in RT?,Protective clothing,Radiation meter,Film badge,All of the above,D,RT,Level 2
+"In RT, what increases image sharpness?",Larger focal spot,Shorter SFD,Smaller focal spot,Low film speed,C,RT,Level 2
+Which flaw is most critical in a pressure vessel weld?,Undercut,Porosity,Crack,Slag,C,RT,Level 2
+What defect appears as star-shaped on RT film?,Inclusion,Crack,Shrinkage cavity,Tungsten pick-up,C,RT,Level 2
+What causes ghost images in RT?,Backscatter,Overexposure,Light leak,Film movement,A,RT,Level 2
+Which parameter reduces geometric unsharpness in RT?,Focal spot size,Film thickness,Film brand,Developer time,A,RT,Level 2
+What causes high background in RT film?,Short SFD,Light leak,Excessive developing,High-speed film,B,RT,Level 2
+"In RT, what is the effect of short SFD?",Blurred image,Sharp image,More contrast,No effect,A,RT,Level 2
+What is the most common source of exposure in RT labs?,Open beam,Backscatter,Iridium leakage,X-ray scatter,D,RT,Level 2
+What is a key requirement for portable X-ray generators?,High output,Low weight,Shielding,Digital control,C,RT,Level 2
+What type of flaw is most likely to be missed in RT?,Slag,Crack,Lack of fusion,Planar crack oriented parallel to beam,D,RT,Level 2
+What is the function of focal spot in RT?,Store radiation,Focus the beam,Hold the film,Detect defect,B,RT,Level 2
+"What is a ""hot spot"" in RT?",Source container,Area of high radiation,Film artifact,Leakage in cable,B,RT,Level 2
+What property of film affects its sensitivity in RT?,Grain size,Thickness,Width,Developer type,A,RT,Level 2
+What is the term for overlapping images in RT?,Superimposition,Double exposure,Ghosting,Image bleed,A,RT,Level 2
+What radiation type is used in digital RT?,Gamma only,X-rays only,Either gamma or X-ray,Infrared,C,RT,Level 2
+"In RT, what is the main reason for penumbra?",Large focal spot,High energy,Long exposure,Small film,A,RT,Level 2
+What does radiographic contrast depend on?,Film speed,Exposure time,Material thickness difference,Film type,C,RT,Level 2
+Which indication suggests fusion-related flaw in weld RT?,Linear and sharp,Circular dark,Random spots,Overlap,A,RT,Level 2
+"In RT, what increases geometric unsharpness?",Longer SFD,Smaller focal spot,Shorter FFD,Thinner material,C,RT,Level 2
+"What type of flaw causes a ""starburst"" indication in RT?",Shrinkage cavity,Tungsten inclusion,Root crack,Porosity cluster,A,RT,Level 2
+"In radiography, what does IQI stand for?",Image Quality Index,Internal Quality Indicator,Image Quality Indicator,Inspection Quality Index,C,RT,Level 2
+What causes mottling in RT film?,Dirty film,Uneven exposure,Film reversal,Improper developer,B,RT,Level 2
+What happens if SFD is too short in RT?,Sharp image,Increased contrast,Geometric unsharpness,None of the above,C,RT,Level 2
+What is a main factor in deciding RT source?,Material color,Part geometry,Film density,Viewing angle,B,RT,Level 2
+Which RT source is best for thick steel?,Ir-192,Co-60,X-ray,Cs-137,B,RT,Level 2
+What causes a dark spot on RT film with no flaw?,Backscatter,Crimp,Porosity,Overexposure,A,RT,Level 2
+What type of radiation is used in industrial X-ray RT?,Alpha,Beta,Gamma,Bremsstrahlung,D,RT,Level 2
+What determines the sharpness in RT?,Film speed,Focal spot size,Source angle,Time,B,RT,Level 2
+What is the recommended film density in RT?,0.5–1.0,1.0–2.0,2.0–4.0,4.0–5.0,C,RT,Level 2
+What is the effect of excessive exposure in RT?,Low density,High contrast,Film blackening,Geometric distortion,C,RT,Level 2
+"What does ""back scatter"" cause in RT?",Sharper image,Film fogging,Underexposure,Better resolution,B,RT,Level 2
+What does the image sharpness in RT depend on?,Developer type,Focal spot size,Distance only,Film size,B,RT,Level 2
+What does porosity look like on RT film?,Round light spots,Sharp dark lines,Cluster of dark spots,Star-shaped,C,RT,Level 2
+Which material is commonly used as an IQI in RT?,Lead,Steel,Wire,Penetrameter,D,RT,Level 2
+Which RT source is better for portable use?,X-ray tube,Co-60,Ir-192,Cs-137,C,RT,Level 2
+What kind of flaws appear sharp and dark in RT?,Inclusions,Lack of fusion,Cracks,Porosity,C,RT,Level 2
+Which RT technique provides real-time image?,Gamma radiography,Film RT,Fluoroscopy,Digital radiography,C,RT,Level 2
+What causes excessive film darkening in RT?,Underexposure,Light leak,Overexposure,Film fogging,C,RT,Level 2
+Which radiation type requires lead shielding?,Beta,Alpha,Gamma,Infrared,C,RT,Level 2
+What defect type can appear as cluster on RT film?,Slag,Crack,Porosity,Lack of fusion,C,RT,Level 2
+Which film type gives highest resolution in RT?,High-speed,Fine-grain,Industrial fast,Non-screen,B,RT,Level 2
+What is the most common cause of artifact in RT film?,Film age,Scatter radiation,Film thickness,Source position,B,RT,Level 2
+What is the typical indication of a gas inclusion in RT?,Circular spot,Sharp line,Diffused dark area,Light patch,A,RT,Level 2
+Which radioactive isotope emits the highest energy gamma rays?,Ir-192,Co-60,Cs-137,Am-241,B,RT,Level 2
+What defect is visible as sharp thin line in RT?,Crack,Porosity,Inclusion,Slag,A,RT,Level 2
+What causes a rounded dark indication on RT film?,Inclusion,Gas porosity,Crack,Lack of fusion,B,RT,Level 2
+What type of radiation is emitted by X-ray tube?,Gamma rays,Infrared,X-rays,Neutrons,C,RT,Level 2
+What is the function of intensifying screen in RT?,Decrease exposure time,Enhance flaw visibility,Improve sharpness,Remove noise,A,RT,Level 2
+Which gas is commonly used in industrial radiography sources?,Helium,Argon,Iridium,Krypton,C,RT,Level 2
+What is the main hazard in gamma radiography?,Heat,UV exposure,Ionizing radiation,Static shock,C,RT,Level 2
+What is an artifact in RT film?,Real defect,Equipment signal,False image,Emulsion,C,RT,Level 2
+What is the primary limitation of RT in thick welds?,Low contrast,Safety concerns,Poor depth resolution,Limited penetration,C,RT,Level 2
+Which isotope emits gamma rays used in RT?,Ir-192,C-14,I-131,Ne-22,A,RT,Level 2
+What can cause a false indication on RT film?,Flaw near source,Developer overuse,Backscatter,Clean film,C,RT,Level 2
+What flaw appears as sharp dark line in RT?,Incomplete fusion,Porosity,Slag inclusion,Crack,D,RT,Level 2
+What does penetrameter check in RT?,Exposure level,Sensitivity,Source quality,Film sharpness,B,RT,Level 2
+Which NDT method needs access to both sides of a component?,UT,PT,RT,MT,C,RT,Level 2
+Which radioactive source has a short half-life?,Co-60,Cs-137,Ir-192,Am-241,C,RT,Level 2
+Which technique improves image contrast in RT?,Higher voltage,Lower voltage,Collimation,Source rotation,C,RT,Level 2
+What is a common issue in RT with thick sections?,Overexposure,Scatter,Incomplete penetration,Film underdevelopment,C,RT,Level 2
+What material is used in RT cassettes for scatter reduction?,Foam,Lead,Zinc,Copper,B,RT,Level 2
+What unit is used to measure gamma radiation?,Watt,Rad,Sievert,Joule,C,RT,Level 2
+Which film artifact results from finger pressure during development?,Smear,Black dot,Pressure mark,Fingerprint,D,RT,Level 2
+What is penumbra in RT?,Sharp flaw image,Area of scatter,Edge unsharpness,Focal spot,C,RT,Level 2
+Which technique improves RT image detail for thick parts?,Increased source-to-film distance,Lower kV,Wide-angle collimator,High film speed,A,RT,Level 2
+Which radiation hazard affects human DNA?,Infrared,Microwave,Gamma rays,Ultraviolet,C,RT,Level 2
+Which source is used in portable gamma radiography?,X-ray tube,Co-60,Cs-137,Ir-192,D,RT,Level 2
+What is the risk when radiographing around unshielded sources?,Corrosion,Explosion,Radiation sickness,Electrical hazard,C,RT,Level 2
+What factor is crucial in minimizing scatter in RT?,Short exposure,High mA,Collimation,Film contrast,C,RT,Level 2
+Which of the following affects RT film sharpness?,Exposure time,Source-to-film distance,Film developer,Film speed,B,RT,Level 2
+Which technique uses a radioactive isotope as the source?,ET,UT,RT,MT,C,RT,Level 2
+What improves contrast in RT?,Thicker film,High voltage,Lower kV,Longer exposure,C,RT,Level 2
+What device holds film during exposure in RT?,Cassette,Intensifier,Film holder,Shield,A,RT,Level 2
+What is the function of lead screen in RT?,Reduce scatter,Absorb X-rays,Increase speed,Improve resolution,A,RT,Level 2
+What improves detail visibility in RT for fine cracks?,Low contrast,Short exposure,Small focal spot,Wide beam,C,RT,Level 2
+What causes overexposure in RT film?,Under voltage,Short time,Incorrect development,High radiation dose,D,RT,Level 2
+Which factor determines exposure time in RT?,Material color,Film type,Material thickness,Source shape,C,RT,Level 2
+Which factor increases film contrast in RT?,Short SFD,Proper developer,Low kV,Long exposure,C,RT,Level 2
+Which factor affects RT sensitivity?,mA,kV,Focal spot size,Exposure speed,C,RT,Level 2
+"What is meant by ""geometric unsharpness"" in RT?",Misaligned beam,Improper exposure,Blurred image edges,Wrong developer,C,RT,Level 2
+What increases scatter radiation in RT?,High kV,Low mA,Short source-to-film distance,Thick shielding,A,RT,Level 2
+What can cause RT film fogging?,Improper exposure,Poor fixing,Light leakage,All of the above,D,RT,Level 2
+What is the term for black spots on RT film from exposure?,Static marks,Developer fog,Scatter noise,Radiation dots,D,RT,Level 2
+What determines film contrast in RT?,Film size,Developer time,Radiation energy,Source type,C,RT,Level 2
+What artifact appears due to scattered radiation in RT?,Sharp edges,Ghost image,Static lines,Blurred edges,D,RT,Level 2
+What affects film speed in RT?,Film type,Exposure time,Source distance,Film holder,A,RT,Level 2
+What reduces contrast in RT?,Low film speed,High radiation energy,Long development time,Thick screen,B,RT,Level 2
+Which technique is used for panoramic RT?,Gamma camera,Film wrapping,Single shot exposure,Digital scan,B,RT,Level 2
+What causes image distortion in RT?,Static electricity,Uneven development,Geometric unsharpness,Film shrinkage,C,RT,Level 2
+"In RT, what does IQI stand for?",Intensity Quality Indicator,Image Quality Indicator,Inspection Quality Index,Internal Quality Inspection,B,RT,Level 2
+What is used to protect film in RT?,Intensifying screen,Developer,Protective sleeve,Lead apron,C,RT,Level 2
+What affects the fog level in RT film?,Storage temperature,Radiation scatter,Type of film,Source distance,A,RT,Level 2
+What reduces exposure time in RT?,Higher kV,Shorter SID,Thinner film,Lower mA,A,RT,Level 2
+Which factor has the most impact on image clarity in RT?,Film size,Source-to-object distance,kV value,Exposure time,B,RT,Level 2
+"In RT, what causes poor film density?",High kV,Long exposure,Low mA,Short exposure,D,RT,Level 2
+What does lead screen do in RT?,Improve contrast,Block light,Absorb backscatter,Measure density,C,RT,Level 2
+What leads to blurry radiographic images?,High voltage,Fast film,Large focal spot,Wide SFD,C,RT,Level 2
+What is the effect of excessive scatter in RT?,Image sharpening,Increased contrast,Background fog,Noise reduction,C,RT,Level 2
+What does an underdeveloped RT film show?,Light image,Dark background,Sharp flaws,No fog,A,RT,Level 2
+What causes reticulation in RT film?,Over washing,Over drying,Improper fixer,Rapid temperature change,D,RT,Level 2
+"In RT, what causes film mottle?",Uneven development,Overexposure,Wrong kV,Short SFD,A,RT,Level 2
+"In RT, what is penetrameter used for?",Flaw creation,Image enhancement,Quality checking,Radiation block,C,RT,Level 2
+What does high fog level on RT film indicate?,Too much radiation,Light leakage,Improper washing,Poor storage,D,RT,Level 2
+"In RT, what is the safest source handling method?",Lead gloves,Tongs and shield,Bare hands,Long exposure,B,RT,Level 2
+"In RT, what affects penetrameter visibility?",Film fog,Exposure angle,Contrast,All of the above,D,RT,Level 2
+What causes static marks on RT film?,High humidity,Improper handling,Light leak,Developer error,B,RT,Level 2
+What causes image blur in RT?,Wide SFD,Small focal spot,Object motion,Low temperature,C,RT,Level 2
+"In RT, what does overdevelopment cause?",Clear image,Foggy film,Darkened image,Weak density,C,RT,Level 2
+What improves sensitivity in RT?,High contrast film,Longer SFD,Short exposure,Thick cassette,A,RT,Level 2
+What is the role of fixer in RT?,Image brightening,Remove unexposed silver,Clean film,Soften film,B,RT,Level 2
+What causes mottling in RT?,Uneven exposure,Film aging,Static electricity,Low developer,A,RT,Level 2
+What is the effect of low kV in RT?,Sharp contrast,Poor penetration,High dose,Clear IQI,B,RT,Level 2
+What can cause fogging in RT film?,Proper washing,Long storage,Correct fixer,Clean water,B,RT,Level 2
+What causes mottling in RT?,Uneven exposure,Film aging,Static electricity,Low developer,A,RT,Level 2
+What is the effect of low kV in RT?,Sharp contrast,Poor penetration,High dose,Clear IQI,B,RT,Level 2
+What can cause fogging in RT film?,Proper washing,Long storage,Correct fixer,Clean water,B,RT,Level 2
+What causes streaks on RT film?,Dirty water,Light exposure,Damaged cassette,Improper handling,A,RT,Level 2
+What helps control contrast in RT?,Developer type,Film speed,Exposure control,Film thickness,C,RT,Level 2
+What leads to overexposed RT film?,Short SFD,Long exposure time,Low voltage,High humidity,B,RT,Level 2
+What causes low contrast in RT images?,Short exposure,High temperature,Fogged film,Excessive radiation,D,RT,Level 2
+What does IQI in RT stand for?,Image Quality Indicator,Internal Quality Inspection,Infrared Quality Imaging,Image Quick Insight,A,RT,Level 2
+What causes film reticulation in RT?,Improper drying,Incorrect fixer,Uneven washing,Temperature shock,D,RT,Level 2
+What causes blurring in RT images?,High SFD,Short exposure,Film movement,Excess developer,C,RT,Level 2
+What artifact appears on RT film from light leaks?,Graininess,Static marks,Dark fogging,Streaks,C,RT,Level 2
+What enhances edge definition in RT?,Low kV,Sharp focus,High temperature,Long film,B,RT,Level 2
+What error appears if fixer is weak in RT?,Poor contrast,Sticky film,Brown patches,White haze,C,RT,Level 2
+"In RT, what is the role of screen in cassette?",Absorb light,Improve resolution,Filter scatter,Support film,C,RT,Level 2
+"In RT, what can be used to reduce scatter radiation?",Filter,Grid,Intensifying screen,Fog meter,B,RT,Level 2
+What causes uneven density in RT film?,Temperature,Scatter radiation,Uneven exposure,Poor washing,C,RT,Level 2
+What RT film defect results from light exposure?,Overdevelopment,Fogging,Reticulation,Emulsion peel,B,RT,Level 2
+What causes static discharge artifacts in RT?,Humidity,Grounding failure,Handling film,Temperature,C,RT,Level 2
+What causes “white patch” in RT film?,Overwashing,Developer splash,Fixer residue,Fogging,C,RT,Level 2
+What causes darkening of RT film without exposure?,Improper storage,Long development,Developer contamination,All of the above,D,RT,Level 2
+What causes film underdevelopment in RT?,Cold developer,High voltage,Dirty film,Overwash,A,RT,Level 2
+What causes screen marks on RT film?,Cracked cassette,Intensifying screen damage,Poor fixer,Excess water,B,RT,Level 2
+What results from exhausted fixer in RT?,High contrast,Yellowing,No image,Extra fog,B,RT,Level 2

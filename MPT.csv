@@ -1,0 +1,214 @@
+Question,Option A,Option B,Option C,Option D,Answer
+Which current type is best for detecting surface cracks in MT?,AC,DC,Full-wave DC,Half-wave AC,A
+Which is a non-ferromagnetic material?,Stainless steel 304,Carbon steel,Cast iron,Mild steel,A
+What is the advantage of magnetic particles in dry form?,Better for subsurface,Useful for wet surfaces,Visible under daylight,No need for UV,C
+What is used to measure magnetizing force?,Gauss meter,Ammeter,Lux meter,Flux meter,B
+"In MT, what helps verify field strength visually?",Prods,Pie gauge,Gauss meter,Yoke,B
+What is a disadvantage of dry magnetic particles?,Difficult to apply,Poor sensitivity,Messy,Not suitable for oily surfaces,D
+What is the common voltage used for portable MT yoke?,110 V,12 V,230 V,24 V,C
+What does a star crack in MT indicate?,Fatigue,Lamination,Shrinkage,Overheating,C
+What is the main advantage of AC in MT?,Penetrates deep,Less power usage,Detects surface cracks,No background noise,C
+Which tool is used in MT for checking field direction?,Pie gauge,Flux meter,Gauss meter,Yoke,A
+What does HVT stand for in MT?,High voltage testing,High vacuum tube,Half value time,High viscosity technique,A
+What is the purpose of demagnetization in MT?,To strengthen field,Remove residual magnetism,Prevent crack growth,Improve sensitivity,B
+Which equipment is used to measure magnetic field strength?,Voltmeter,Gauss meter,Pie gauge,Ammeter,B
+What is the minimum recommended megohm reading for MT yokes?,0.1,1,5,10,B
+What material is NOT suitable for MT?,Mild steel,Stainless steel,Cast iron,Alloy steel,B
+"In MT, when should circular magnetization be used?",Longitudinal flaws,Surface porosity,Transverse flaws,Laminations,C
+Why is magnetization in MT performed in two directions?,Improve flaw orientation,Improve magnetic flux,Detect flaws in all directions,Speed up inspection,C
+What kind of magnetization is used for detecting longitudinal cracks in cylindrical parts?,Circular,Longitudinal,Cross-field,Rotational,B
+"In MT, what can reduce sensitivity?",Strong magnetic field,Dirty surface,Proper yoke,AC current,B
+Which NDT method uses induced magnetic fields?,RT,PT,MT,VT,C
+What is the effect of increasing current in MT?,Decrease detection,Increase heating,Increase sensitivity,No effect,C
+What is the advantage of AC yoke in MT?,Deep penetration,Detects surface flaws,High current,Detects laminations,B
+"In MT, why are pie gauges used?",Measure crack depth,Check sensitivity,Determine voltage,Align coil,B
+What kind of flaws does circular magnetization detect best?,Transverse,Longitudinal,Laminations,Surface pits,A
+What is used to demagnetize components in MT?,AC coil,Permanent magnet,Battery source,DC field,A
+"In MT, what causes poor particle mobility?",DC field,Rusty surface,AC yoke,Clean surface,B
+Which flaw is surface-breaking and sharp in MT?,Crack,Porosity,Lamination,Inclusion,A
+What is the unit of magnetic field strength?,Gauss,Tesla,Ampere,Newton,A
+What material is unsuitable for MT?,Mild steel,Carbon steel,Stainless steel,Alloy steel,C
+What is the primary cause of arc burn indication in MT?,Poor ground,Excessive current,Dirty coil,Improper contact,D
+"In MT, why is AC current used for surface flaws?",High magnetizing force,Deep penetration,Better particle mobility,Cheaper,C
+Which NDT method is not suitable for composite materials?,VT,ET,UT,MT,D
+What is a “demagnetization curve” used for?,Flaw detection,Magnetic strength,Indicate residual magnetism,Cleaning,C
+Which of the following is a limitation of MT?,Surface prep required,Works only on ferromagnetic materials,Sensitive to geometry,All of the above,D
+"In MT, what results in poor particle accumulation?",AC yoke,Clean surface,Low field strength,Narrow pole spacing,C
+What is the term for flaw indication aligned with magnetic lines in MT?,True indication,Non-relevant indication,False positive,Spurious mark,A
+"In MT, how is indication strength improved?",Increase field strength,Use more powder,Move probe faster,Use dry particles,A
+"In MT, which type of current offers the deepest penetration?",AC,DC,Pulsed DC,High frequency,B
+"In MT, why are DC fields preferred for deep flaws?",Stronger field,Better resolution,Deeper penetration,Easier application,C
+"In MT, how are residual fields removed?",Demagnetization,Cleaning,Heating,DC supply,A
+What factor improves flaw detection in MT?,Larger particles,Lower current,Clean surface,Stronger UV,C
+What does a linear indication in MT typically suggest?,Fatigue crack,Gas porosity,Shrinkage,Lamination,A
+Which NDT method requires magnetic particles?,VT,MT,PT,RT,B
+What are shims used for in MT?,Test sensitivity,Increase current,Reduce field,Block indication,A
+Why are fluorescent MT particles used?,Easier cleanup,Cheaper cost,Higher visibility under UV,Long shelf life,C
+Which NDT method requires magnetization and demagnetization?,PT,ET,MT,RT,C
+"In MT, what indicates strong flaw presence?",Faint line,Blurred patch,Dense particle build-up,No pattern,C
+What causes arc blow in MT?,AC current,DC current and geometry,Improper grounding,Overheating,B
+What is used to detect residual field in MT after testing?,Field meter,Gauss meter,Protractor,Thermometer,B
+What is the main purpose of demagnetization?,Improve magnetism,Reduce field strength,Eliminate residual field,Clean surface,C
+What improves indication visibility in MT?,Dry developer,Black light,High-contrast paint,Wet developer,B
+What is the role of the flux indicator in MT?,Increase visibility,Check field strength,Display flux leakage,Show contrast,B
+"In MT, a false indication may be due to?",Weak magnetizing current,Oil on surface,Misaligned poles,All of the above,D
+What improves flaw visibility in MT on rough surfaces?,Stronger magnet,Wet particles,Fluorescent light,DC field,B
+"In MT, what is the preferred field direction for flaw detection?",Parallel to defect,Perpendicular to defect,Circular field,Random,B
+What causes reduced particle mobility in MT?,Cold surface,Dry powder,Weak field,Excess moisture,D
+"In MT, what is “indication bleed”?",Overuse of particles,Flaw saturation with particles,Field leakage,UV overexposure,B
+What is the preferred technique for inspecting fillet welds using MT?,Prodding,Yoke method,Coil wrap,Indirect magnetization,B
+What does a wide indication in MT suggest?,Fine surface crack,Deep crack,Shallow broad flaw,Non-metallic inclusion,C
+What is the primary role of flux lines in MT?,Show current,Indicate temperature,Attract particles,Show leakage fields,D
+Which test is most suitable for detecting fatigue cracks?,MT,VT,PT,ET,A
+What does an MT yoke test check?,Particle adhesion,Field strength,Equipment function,Current direction,C
+What is the typical magnetizing current used in MT for inspection?,10.00 AM,50 A,100–6000 A,1.00 AM,C
+"In MT, what does a clear linear indication suggest?",Slag,Porosity,Crack,Inclusion,C
+Which type of magnetizing current gives best sensitivity in MT?,AC,DC,HWDC,AC + DC,B
+What method is best for detecting near-surface cracks?,VT,UT,MT,ET,C
+What does a strong continuous indication in MT suggest?,Deep linear flaw,Inclusion,Surface porosity,Non-relevant,A
+Which material is non-ferromagnetic?,Iron,Nickel,Stainless steel,Aluminum,D
+What is the unit of magnetic field strength in MT?,Tesla,Ampere,Gauss,Newton,C
+"In MT, what field detects longitudinal defects?",Circular,Longitudinal,Transverse,Reversed,A
+"What defect causes a jagged, irregular MT indication?",Crack,Slag inclusion,Incomplete fusion,Lamination,B
+Which NDT method needs both AC and DC for various depths?,UT,PT,MT,ET,C
+"In MT, which material gives best results?",Aluminum,Brass,Stainless steel,Mild steel,D
+"In MT, what causes weak indications?",Strong field,Clean surface,Improper current,Correct technique,C
+"In MT, which magnetization method gives best coverage for long objects?",Yoke,Coil wrap,Central conductor,Prodding,B
+What defect appears as fine linear indication in MT?,Shrinkage,Porosity,Crack,Inclusion,C
+What is the term for magnetic field lines in MT?,Lines of crack,Eddy lines,Flux lines,Induction rays,C
+"In MT, what type of flaw aligns with circular magnetic field?",Transverse,Longitudinal,Surface only,Random,A
+What kind of magnetization best detects transverse cracks in MT?,Head shot,Prod technique,Central conductor,Yoke,A
+What is the result of using DC magnetization in MT?,Detects only surface flaws,Detects deeper subsurface flaws,Only suitable for thin parts,Poor sensitivity,B
+What is used to check the field strength in MT?,Test block,Gauss meter,Field meter,Pie gauge,D
+What does excessive current in MT cause?,Blurry indications,Overheating,Weak magnetization,Arc blow,B
+"In MT, what reduces detection of fine cracks?",Excess field,Weak field,UV light,Fine powder,B
+What causes uneven magnetization in MT?,Improper yoke placement,Excess field,Clean surface,High powder flow,A
+What is the primary source of magnetism in MT yoke?,Alternator,Electromagnet,Permanent magnet,Magnetic coil,B
+Which technique gives directional detection in MT?,Prod technique,Central conductor,Longitudinal magnetization,Residual magnetization,A
+What is used to verify crack orientation in MT?,Magnetic particle direction,Field angle,Probe axis,LPI filter,A
+What is a circular magnetization used for in MT?,Surface cracks,Internal inclusions,Longitudinal cracks,Transverse cracks,D
+What is the primary function of magnetic particles in MT?,Fill voids,Create visual contrast,Produce sound,Attract cracks,B
+What type of magnetization is preferred for complex geometry in MT?,Prod,Yoke,Head shot,Central conductor,B
+"In MT, what happens if field strength is too low?",Overheating,Weak particle attraction,Strong background,High resolution,B
+What limits depth of flaw detection in MT?,Surface hardness,Magnetic permeability,Part thickness,Magnet type,B
+What happens when magnetic field is reversed in MT?,No indication,Particle movement changes,Stronger indication,Higher current needed,B
+What causes particle clumping in MT?,Oil contamination,Weak field,Clean surface,Proper application,A
+"In MT, what happens when surface is not properly cleaned?",Strong indications,Misleading results,No magnetization,Signal loss,B
+What is the purpose of demagnetization after MT?,Better contrast,Reduce false positives,Eliminate residual magnetism,Avoid discoloration,C
+What kind of field is created by prods in MT?,Circular,Longitudinal,Transverse,Rotating,B
+What magnetic particle type gives better indication sharpness?,Coarse,Dry,Fine,Pre-mixed,C
+What happens if current in MT is too high?,Weak indications,Burn marks,Smooth indications,Fast drying,B
+What is the preferred technique to test curved surfaces in MT?,Yoke,Prod,Head shot,Central conductor,B
+"In MT, what does excessive powder application cause?",Weak flaw visibility,Sharp indications,Unclear background,Better sensitivity,A
+What type of magnetization detects flaws parallel to part length?,Circular,Longitudinal,Alternating,Residual,B
+"In MT, what does the head shot technique produce?",Longitudinal field,Circular field,Weak field,Alternating field,B
+"In MT, what is the result of poor surface contact?",Strong indications,No field induced,Clear crack visibility,Residual magnetism,B
+"In MT, what happens if magnetization is not complete?",Strong background,Missed indications,Bright images,Clear defect shape,B
+What is used to determine field strength in MT?,Test block,Pie gauge,Flux meter,Gauss meter,D
+"In MT, what is “demagnetization”?",Field reversal,Removal of all flaws,Elimination of residual magnetism,Increasing current,C
+"In MT, what happens if magnetization is perpendicular to the crack?",No indication,Weak indication,Strong indication,Clear background,C
+What type of current provides circular magnetization in MT?,AC,DC,Head shot DC,AC with yoke,C
+What magnetic field direction is best for detecting transverse flaws?,Circular,Longitudinal,Random,Parallel,B
+"In MT, which technique provides best detection of fine cracks?",AC yoke,Head shot,Prod method,Central conductor,A
+What results from improper magnetization in MT?,Strong lines,No indications,Irregular current,Proper circular field,B
+What is used to measure magnetization strength in MT?,Lux meter,Eddy scope,Gauss meter,Amp meter,C
+What is the correct field direction for detecting longitudinal flaws in MT?,Circular,Transverse,Longitudinal,Parallel,A
+What magnetic field type does AC yoke produce?,Longitudinal,DC field,Pulsed field,Alternating field,D
+What does central conductor technique test in MT?,External flaws,Surface flaws,Internal bore flaws,Coating thickness,C
+"In MT, which flaw orientation gives strongest indications?",Parallel to field,45° to field,Perpendicular to field,Random,C
+"In MT, what ensures effective magnetization?",Smooth surface,Field perpendicular to flaw,Low current,No contact,B
+"In MT, what is the common indication shape for a crack?",Circular halo,Starburst,Sharp linear,Diffuse patch,C
+What is a drawback of DC magnetization in MT?,Strong field,Heavy equipment,Residual magnetism,Lack of penetration,B
+What type of field does a central conductor produce in MT?,Axial,Longitudinal,Circular,Alternating,C
+"In MT, what does a residual technique involve?",Magnetic powder left on surface,Field applied after inspection,Inspection without current,Using past magnetization,D
+"In MT, which current type penetrates deepest?",AC,DC,Pulsed DC,HF AC,B
+Which method of magnetization is most portable for field MT?,Coil,Prod,Yoke,Central conductor,C
+Which MT technique uses both AC and DC?,Yoke method,Multifrequency,Continuous and residual,Coil and prod,C
+"In MT, what indicates demagnetization success?",Bright indication,No residual field,Strong flux,No background,B
+Which magnetizing method gives longitudinal field in MT?,Head shot,Prod method,Yoke,Coil,A
+What should be used to inspect wet surfaces in MT?,Dry powder,Wet fluorescent particles,Paint,Dye penetrant,B
+"In MT, which indication confirms surface-breaking flaw?","Sharp, narrow indication",Diffused background,Circular mark,Bright patch,A
+What is most important when selecting MT particles?,Cost,Size and color,Magnetic field type,Weight,B
+What can reduce MT effectiveness on rough surfaces?,Uneven field,Dry powder,Wet method,Demagnetization,A
+Which MT technique requires current flow through the test object?,Yoke,Coil,Head shot,Indirect,C
+"In MT, how are particles aligned with flaw?",Parallel,Circular,Perpendicular,Random,C
+What is used in MT to determine field strength?,Gauss meter,Volt meter,Lux meter,Radiograph,A
+"In MT, what ensures full coverage?",Multi-directional field,Wet method only,High voltage,Large part size,A
+Which method shows subsurface flaws in MT?,Dry powder,AC yoke,DC coil,UV inspection,C
+What is essential before MT inspection?,Post-cleaning,Drying,Demagnetization,Surface preparation,D
+What field type is generated in DC MT?,Longitudinal,AC field,Alternating field,Eddy field,A
+"In MT, what is done after applying particles?",Demagnetization,Apply more field,Inspect immediately,Wash surface,C
+What technique in MT allows for multi-angle inspection?,Head shot,AC yoke rotation,Field reversal,Pulsed current,B
+What limits detection in MT using dry particles?,Surface texture,Particle size,Lighting,Magnet type,A
+Which MT method works best for large parts?,Yoke,Coil,Prod,Continuous,B
+"In MT, what flaw orientation is least detectable?",Parallel,Perpendicular,Angled,Vertical,A
+What limits detection in MT using dry particles?,Surface texture,Particle size,Lighting,Magnet type,A
+Which MT method works best for large parts?,Yoke,Coil,Prod,Continuous,B
+"In MT, what flaw orientation is least detectable?",Parallel,Perpendicular,Angled,Vertical,A
+"In MT, what affects particle mobility?",Particle size,Field type,Surface condition,All of the above,D
+What method in MT allows for testing without direct current?,Residual magnetism,Pulsed DC,Indirect method,Yoke,A
+"In MT, what is circular magnetization used for?",Detecting longitudinal flaws,Detecting transverse flaws,Demagnetization,Residual method,B
+"In MT, what helps detect shallow cracks?",DC current,AC current,Pulsed current,Circular magnetism,B
+What is the major hazard in field MT?,Weak signal,Radiation,Electric shock,Magnetic saturation,C
+Which current type in MT gives best surface crack detection?,DC,AC,Pulsed,Low-frequency DC,B
+What demagnetization technique is most effective in MT?,Pull-through AC coil,Hammering,Heating,Spraying,A
+"In MT, what ensures deep penetration?",AC yoke,DC coil,Residual magnetism,Surface heating,B
+What reduces magnetic field strength in MT?,Large spacing,Residual magnetism,High temperature,Large flaw,C
+What is used in MT to measure magnetic field direction?,Protractor,Field indicator strip,Compass,Thermometer,C
+What is a limitation of AC magnetization in MT?,Poor penetration,High heat,High cost,Time delay,A
+"In MT, what is the effect of too much current?",Overheating,Poor field,No effect,Brightness,A
+What method in MT gives circular magnetization?,Longitudinal probe,Coil method,Yoke method,Residual magnetism,B
+"In MT, what improves particle attraction to flaw?",Strong field,Heat,Wet method,Color contrast,A
+"In MT, how is field direction verified?",Magnetometer,Pie gauge,Protractor,Thermometer,B
+What is best for detecting shallow surface flaws in MT?,AC yoke,DC coil,Residual technique,Pulsed current,A
+What field type is most directional in MT?,Longitudinal,Circular,Alternating,Pulsed,A
+"In MT, what is used to determine saturation?",Flux meter,Gauss meter,Pie gauge,Magnetograph,B
+Which magnetization gives best flaw orientation detection in MT?,Combined,DC,Circular,AC,A
+What method allows MT in large components?,Prods,Coil wrap,Yoke,Current flow,B
+What limits MT in austenitic steels?,High magnetism,Low permeability,High conductivity,Crystalline structure,B
+"In UT, what results from surface roughness?",Backwall echo,Multiple indications,Scattering,No signal,C
+What causes echo loss in UT?,Proper alignment,Beam scattering,Backwall reflection,Gain increase,B
+"In UT, what is beam angle critical for?",Sensitivity,Defect depth,Flaw orientation detection,Velocity control,C
+"In UT, what does delay line help with?",Signal enhancement,Near-surface flaw detection,Beam focusing,Time delay,B
+What causes echo duplication in UT?,Reflection from boundaries,Equipment lag,Gain settings,Surface coatings,A
+"In UT, what improves shallow flaw detection?",Low frequency,High frequency,Delay line,Angle probe,C
+What causes signal echo doubling in UT?,High gain,Defect overlap,Beam bouncing,Dual probe,C
+What is critical for flaw sizing in UT?,Beam focus,Echo amplitude,Flaw angle,Time base,B
+What UT technique gives flaw depth directly?,TOFD,B-scan,Pulse-echo,C-scan,A
+What limits sensitivity in UT?,Gain level,Couplant quality,Probe angle,All of the above,D
+"In UT, what causes loss of resolution?",High frequency,Small flaw,Broad beam,Rough surface,C
+What reduces backwall echo in UT?,Large flaw,Soft material,Beam scattering,Improper couplant,C
+What enhances flaw detection in UT shear wave?,Beam focusing,Large couplant,Delay line,Angle wedge,D
+What causes ghost echoes in UT?,Multipath reflection,Flaw size,Weak beam,High velocity,A
+What does “A-scan” display in UT?,Cross-section image,Flaw depth and amplitude,Real-time flaw map,Beam angle,B
+"In UT, what does beam divergence affect?",Resolution,Frequency,Material velocity,Impedance,A
+What does the skip distance in UT depend on?,Beam angle,Part shape,Couplant,Probe size,A
+"In UT, what reduces dead zone effect?",Delay block,Angle probe,Backwall gain,Time gate,A
+What probe angle is used in weld UT?,0°,45°,60°,70°,B
+What is the skip distance in UT shear wave?,One full V-path,Two half paths,Straight beam length,Probe width,A
+"In UT, what indicates a discontinuity?",Backwall echo,Loss of signal,Intermediate echo,Sharp spike,C
+What improves flaw sizing in UT?,Focused transducer,High gain,Multiple scans,All of the above,D
+What can cause fogging in RT film?,Proper washing,Long storage,Correct fixer,Clean water,B
+What causes mottling in RT?,Uneven exposure,Film aging,Static electricity,Low developer,A
+What is the effect of low kV in RT?,Sharp contrast,Poor penetration,High dose,Clear IQI,B
+What can cause fogging in RT film?,Proper washing,Long storage,Correct fixer,Clean water,B
+What causes streaks on RT film?,Dirty water,Light exposure,Damaged cassette,Improper handling,A
+What helps control contrast in RT?,Developer type,Film speed,Exposure control,Film thickness,C
+What leads to overexposed RT film?,Short SFD,Long exposure time,Low voltage,High humidity,B
+What causes low contrast in RT images?,Short exposure,High temperature,Fogged film,Excessive radiation,D
+What does IQI in RT stand for?,Image Quality Indicator,Internal Quality Inspection,Infrared Quality Imaging,Image Quick Insight,A
+What causes film reticulation in RT?,Improper drying,Incorrect fixer,Uneven washing,Temperature shock,D
+What causes blurring in RT images?,High SFD,Short exposure,Film movement,Excess developer,C
+What artifact appears on RT film from light leaks?,Graininess,Static marks,Dark fogging,Streaks,C
+What enhances edge definition in RT?,Low kV,Sharp focus,High temperature,Long film,B
+What error appears if fixer is weak in RT?,Poor contrast,Sticky film,Brown patches,White haze,C
+"In RT, what is the role of screen in cassette?",Absorb light,Improve resolution,Filter scatter,Support film,C
+"In RT, what can be used to reduce scatter radiation?",Filter,Grid,Intensifying screen,Fog meter,B
+What causes uneven density in RT film?,Temperature,Scatter radiation,Uneven exposure,Poor washing,C
+What RT film defect results from light exposure?,Overdevelopment,Fogging,Reticulation,Emulsion peel,B
+What causes static discharge artifacts in RT?,Humidity,Grounding failure,Handling film,Temperature,C
+What causes “white patch” in RT film?,Overwashing,Developer splash,Fixer residue,Fogging,C
+What causes darkening of RT film without exposure?,Improper storage,Long development,Developer contamination,All of the above,D
+What causes film underdevelopment in RT?,Cold developer,High voltage,Dirty film,Overwash,A
+What causes screen marks on RT film?,Cracked cassette,Intensifying screen damage,Poor fixer,Excess water,B
+What results from exhausted fixer in RT?,High contrast,Yellowing,No image,Extra fog,B

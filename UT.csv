@@ -1,0 +1,214 @@
+Question,Option A,Option B,Option C,Option D,Answer,Method,Level
+"In ultrasonic testing, which wave travels fastest in steel?",Longitudinal wave,Shear wave,Surface wave,Lamb wave,A,UT,Level 2
+Which method is most effective for internal flaws in thick steel plates?,PT,RT,UT,MT,C,UT,Level 2
+"In UT, what unit is used for material velocity?",Hz,mm/Âµs,dB,MPa,B,UT,Level 2
+Which wave has highest particle displacement in UT?,Shear wave,Longitudinal wave,Rayleigh wave,Lamb wave,A,UT,Level 2
+Which NDT method uses acoustic impedance?,RT,VT,ET,UT,D,UT,Level 2
+Which parameter affects resolution in UT?,Wavelength,Pulse duration,Frequency,Damping,C,UT,Level 2
+What is the function of a backing block in UT calibration?,Support probe,Prevent reflection,Reference delay,Impedance matching,C,UT,Level 2
+Which parameter most affects the depth of penetration in UT?,Wavelength,Frequency,Velocity,Damping,B,UT,Level 2
+Which wave is mostly used in UT flaw detection?,Lamb wave,Surface wave,Shear wave,Love wave,C,UT,Level 2
+"In UT, what type of flaw gives maximum reflection?",Inclined crack,Flat bottom hole,Porosity,Slag inclusion,B,UT,Level 2
+What is the typical frequency range for UT weld inspection?,0.5–2 MHz,2–5 MHz,5–10 MHz,10–15 MHz,B,UT,Level 2
+Why are dual element probes used in UT?,Measure thickness,Flaw sizing,Angle beam inspection,Surface noise reduction,D,UT,Level 2
+What is the function of couplant in UT?,Reduce noise,Transmit sound,Protect surface,Increase speed,B,UT,Level 2
+Which angle probe is commonly used in UT weld inspection?,30°,45°,60°,70°,B,UT,Level 2
+What is acoustic impedance?,Density/velocity,Velocity × density,Wavelength × amplitude,Pressure × frequency,B,UT,Level 2
+What is the role of damping in UT probes?,Increase sensitivity,Control frequency,Shorten pulse,Lengthen signal,C,UT,Level 2
+What is the name of UT technique using two probes?,Immersion testing,TOFD,Phased array,Shear wave,B,UT,Level 2
+Which flaw is common in rolled products?,Lamination,Crack,Porosity,Blow hole,A,UT,Level 2
+What causes weak signals in UT?,High damping,Poor couplant,Crack orientation,All of the above,D,UT,Level 2
+Why is a probe shoe used in UT?,Protect surface,Angle measurement,Coupling,Alignment,A,UT,Level 2
+What does a DAC curve represent in UT?,Acoustic wavefront,Signal decay,Distance-Amplitude Correction,Delay-Amplitude Compensation,C,UT,Level 2
+"In UT, what does “dead zone” refer to?",Missed flaws,Near surface region where flaws cannot be detected,Couplant failure,Probe error,B,UT,Level 2
+"In UT, which mode is used for thickness gauging?",Shear wave,Longitudinal wave,Surface wave,Lamb wave,B,UT,Level 2
+Why is a calibration block used in UT?,Size defects,Increase speed,Standardize sensitivity,Mark depth,C,UT,Level 2
+Which wave has the highest velocity in UT?,Longitudinal,Shear,Surface,Lamb,A,UT,Level 2
+What is a common use of TOFD in UT?,Surface crack detection,Thickness measurement,Flaw sizing,Material ID,C,UT,Level 2
+What is the best method to detect lack of fusion in welds?,PT,ET,VT,UT,D,UT,Level 2
+"In UT, what unit is used to express velocity?",mm/s,MHz,m/s,Hz,C,UT,Level 2
+Which wave mode is most affected by surface roughness?,Shear,Longitudinal,Surface,Lamb,C,UT,Level 2
+Why is UT preferred over RT for thick sections?,Faster,Safer,Deeper penetration,Easier,C,UT,Level 2
+Which wave travels only along the surface of a material?,Longitudinal,Shear,Surface,Transverse,C,UT,Level 2
+What is the significance of dB setting in UT?,Frequency control,Pulse duration,Amplitude sensitivity,Probe delay,C,UT,Level 2
+What type of UT probe is used for thick sections?,Dual element,High frequency,Low frequency,Angle beam,C,UT,Level 2
+"In UT, what does pulse-echo technique detect?",Depth only,Internal flaws,Surface flaws only,Couplant thickness,B,UT,Level 2
+What wave type does phased array UT use?,Single shear,Surface wave,Multiple angle beams,Longitudinal pulse only,C,UT,Level 2
+What is the function of “gate” in UT flaw detection?,Adjust thickness,Define scan area,Measure velocity,Set alarm,B,UT,Level 2
+What is the maximum depth surface wave UT can penetrate?,0.5 mm,2 mm,5 mm,10 mm,C,UT,Level 2
+Which flaw orientation is hardest to detect in UT?,Perpendicular to beam,Parallel to beam,Subsurface,Near surface,B,UT,Level 2
+What causes 'noise' in UT inspection?,Electrical interference,Couplant errors,Rough surface,All of the above,D,UT,Level 2
+Which technique improves defect orientation detection in UT?,Phased array,Immersion testing,Pulse-echo,Angle beam,D,UT,Level 2
+Why is couplant viscosity important in UT?,Reduces attenuation,Prevents probe wear,Ensures good contact,All of the above,D,UT,Level 2
+Which flaw can be both surface and subsurface?,Porosity,Undercut,Crack,Lack of penetration,C,UT,Level 2
+What is the effect of increasing probe frequency in UT?,Greater penetration,Increased resolution,Higher velocity,Lower noise,B,UT,Level 2
+"What is a ""reference block"" in UT?",Flaw simulator,Thickness checker,Sound reflector,Calibration standard,D,UT,Level 2
+What is the angle of refraction in UT determined by?,Pulse amplitude,Probe frequency,Snell’s law,Velocity of shear,C,UT,Level 2
+What influences flaw detectability in UT?,Beam angle,Surface finish,Frequency,All of the above,D,UT,Level 2
+What is the primary function of couplant in UT?,Clean surface,Reduce noise,Transmit sound,Protect probe,C,UT,Level 2
+Which wave mode is most sensitive to planar flaws in UT?,Shear,Longitudinal,Surface,Lamb,A,UT,Level 2
+What is the typical angle of shear wave probe for weld testing?,30°,45°,90°,180°,B,UT,Level 2
+What determines dead zone in UT?,Pulse length,Gate delay,Beam spread,Frequency,A,UT,Level 2
+Which flaw appears as linear in UT testing?,Porosity,Crack,Inclusion,Fusion,B,UT,Level 2
+"In UT, what is “near field” zone?",Region with uniform amplitude,Region before wave stabilizes,Dead zone,Region with low velocity,B,UT,Level 2
+What’s the standard angle for testing plates with UT angle probe?,45°,60°,70°,All of the above,D,UT,Level 2
+What is the typical UT probe frequency for steel thickness testing?,0.5 MHz,1 MHz,2.25 MHz,10 MHz,C,UT,Level 2
+What is the effect of poor contact in UT testing?,False signals,No reading,Echo loss,All of the above,D,UT,Level 2
+What is the best method for internal flaw detection in thick plates?,VT,MT,PT,UT,D,UT,Level 2
+What causes lack of back reflection in UT?,Delamination,Couplant loss,Improper zeroing,All of the above,D,UT,Level 2
+What is a limitation of phased array UT?,High cost,Low speed,Poor sensitivity,Large size,A,UT,Level 2
+Why are calibration blocks used in UT?,Measure flaw length,Setup gain and range,Detect cracks,Measure beam spread,B,UT,Level 2
+Which type of probe is used for angle beam inspection in UT?,Straight,Shear,Dual,Immersion,B,UT,Level 2
+What causes signal dropout in UT?,Lack of couplant,Incorrect gate,Dirty probe,All of the above,D,UT,Level 2
+"In UT, which parameter affects beam divergence?",Pulse repetition,Frequency,Material density,Angle of probe,B,UT,Level 2
+What is the most reliable method for wall thickness measurement?,VT,MT,UT,RT,C,UT,Level 2
+What is the angle range used in angle beam UT for weld inspection?,20°–30°,40°–70°,90°,120°,B,UT,Level 2
+What type of UT probe is used for thickness gauging?,Angle,Straight,Dual,Shear,B,UT,Level 2
+What is a common false indication in UT?,Dead zone echo,Back wall echo,Multiple echo,Ghost echo,D,UT,Level 2
+Why are laminated flaws hard to detect in UT?,Beam misalignment,Low frequency,Reflect sound parallel,Small size,C,UT,Level 2
+What causes overlapping indications in UT?,Flaw shape,Probe wear,High gain,Echo timing,D,UT,Level 2
+"In UT, what is the main function of DAC curve?",Calibrate gain,Compare indications,Adjust velocity,Set range,B,UT,Level 2
+What is the ideal couplant for high-temperature UT?,Oil,Grease,Water,High-temp paste,D,UT,Level 2
+Which mode is most commonly used in conventional UT flaw detection?,Longitudinal,Shear,Surface,Lamb,B,UT,Level 2
+Why are side-drilled holes used in UT reference blocks?,Improve echo strength,Simulate defects,Calibrate range,Reduce noise,B,UT,Level 2
+What is a primary use of surface wave in UT?,Deep flaw detection,Surface crack detection,Velocity check,Calibration,B,UT,Level 2
+What is used to calibrate time base in UT flaw detector?,Step wedge,IIW block,DAC curve,Echo delay,B,UT,Level 2
+"In UT, which flaw causes total loss of back wall echo?",Surface notch,Slag inclusion,Lack of fusion,Complete delamination,D,UT,Level 2
+What is the most probable cause for erratic readings in UT?,Material graininess,Loose cable,Wrong couplant,All of the above,D,UT,Level 2
+"In UT, what is the reason for using delay line probes?",Reduce wear,Prevent ghost echoes,Allow near-surface detection,All of the above,D,UT,Level 2
+"In UT, what is the function of a wedge in angle beam probe?",Protect probe,Hold couplant,Change wave direction,Measure flaw depth,C,UT,Level 2
+What causes reduced flaw sensitivity in UT?,Wrong frequency,Thick couplant,Grainy material,All of the above,D,UT,Level 2
+What is typically used to measure flaw length in UT?,DAC curve,Echo amplitude,Probe index,Time base,B,UT,Level 2
+What causes multiple echo pattern in UT?,Reflections from flaw,Surface wave interference,Back wall reflection,Probe malfunction,C,UT,Level 2
+What affects the resolution in ultrasonic testing?,Beam angle,Pulse width,Gain,Scan speed,B,UT,Level 2
+What type of waves are commonly used in flaw detection in UT?,Surface waves,Longitudinal waves,Torsional waves,Standing waves,B,UT,Level 2
+Which standard block is used in UT thickness calibration?,Step wedge,IIW block,V1 block,Radius block,A,UT,Level 2
+What causes lack of back wall echo in UT?,Delamination,Shallow crack,Surface notch,Inclusion,A,UT,Level 2
+What defect causes sudden signal drop in UT?,Crack,Inclusion,Lamination,Delamination,D,UT,Level 2
+What probe type is used in UT for angled weld scanning?,Dual,Straight,Shear wave,Normal incidence,C,UT,Level 2
+What is the effect of increasing frequency in UT?,Deeper penetration,Lower resolution,Higher resolution,Slower wave,C,UT,Level 2
+What does DAC stand for in UT?,Distance Amplitude Calibration,Delay Angle Correction,Depth Amplitude Curve,Displacement Angle Code,A,UT,Level 2
+What is the typical frequency used in flaw detection with UT?,0.5–2 MHz,2–10 MHz,10–20 MHz,20–50 MHz,B,UT,Level 2
+"In UT, what causes dead zone?",High gain,Delay block,Near-surface reflection,High frequency,C,UT,Level 2
+"In UT, what is an A-scan display?",Real-time image,Signal vs time graph,Area map,3D model,B,UT,Level 2
+What is a benefit of phased array UT?,Cost-saving,Faster scanning,Low sensitivity,Reduced coupling,B,UT,Level 2
+"What does a ""broad echo"" in UT suggest?",Sharp crack,Slag inclusion,Multiple flaws,Shallow defect,B,UT,Level 2
+"What does a ""clean back wall echo"" in UT indicate?",Flawless region,Subsurface crack,Near surface flaw,Calibration error,A,UT,Level 2
+What is the function of delay line in UT probe?,Reduce noise,Enhance depth reading,Avoid near-surface interference,Calibrate distance,C,UT,Level 2
+What is the unit for UT velocity?,dB,mm/s,Hz,MHz,B,UT,Level 2
+What is one limitation of high-frequency UT?,Poor surface detection,Less beam spread,Low flaw resolution,Reduced penetration,D,UT,Level 2
+What is the main advantage of phased array UT?,Cheaper equipment,Slower scanning,Multi-angle inspection,Less calibration,C,UT,Level 2
+What is an advantage of immersion UT testing?,Reduced coupling loss,Faster scanning,No calibration needed,Better for large flaws only,A,UT,Level 2
+"In UT, how is sound energy reflected from a flaw measured?",Time of flight,Echo amplitude,Frequency shift,Sound intensity,B,UT,Level 2
+What causes noisy UT signals?,Grainy material,Low gain,Thick couplant,Clean surface,A,UT,Level 2
+What does an absence of backwall echo in UT indicate?,Good weld,Thin part,Defect or discontinuity,Calibration error,C,UT,Level 2
+"In UT, what is used to calibrate depth accuracy?",IIW Block,Step wedge,Radius block,DAC block,B,UT,Level 2
+"In UT, what flaw gives multiple echo reflections?",Crack,Inclusion,Laminations,Porosity,C,UT,Level 2
+What determines the resolution of a UT transducer?,Diameter,Material,Frequency,Pulse width,C,UT,Level 2
+Which standard block is used to calibrate shear wave probes in UT?,V1 Block,Step wedge,IIW Block,Radius block,A,UT,Level 2
+"In UT, what material condition reduces sound propagation?",Coarse grain,Low hardness,Small defect,Uniform density,A,UT,Level 2
+What technique is used to scan large welds quickly in UT?,A-scan,B-scan,Phased array,TOFD,C,UT,Level 2
+What is meant by “probe index point” in UT?,Coupling point,Beam origin on probe,Flaw location,Time reference,B,UT,Level 2
+What kind of defect is best detected with shear waves in UT?,Surface porosity,Subsurface cracks,Surface roughness,Delamination,B,UT,Level 2
+What is the general angle used in shear wave UT for weld inspection?,30°,45°,60°,70°,C,UT,Level 2
+What is the primary use of delay block in UT?,Reduce backwall echo,Avoid dead zone,Increase sensitivity,Control velocity,B,UT,Level 2
+What does a very wide echo indicate in UT?,Inclusion,Lamination,Porosity cluster,Multiple flaws,D,UT,Level 2
+What is dead zone in UT?,Surface area that can’t be inspected,End of test range,Material boundary,Transducer blind spot,A,UT,Level 2
+What does a weak echo in UT imply?,Flaw near surface,Large flaw,Small flaw or poor coupling,Noise,C,UT,Level 2
+"In UT, what affects beam spread the most?",Frequency,Couplant,Probe diameter,Gain,C,UT,Level 2
+What is an advantage of A-scan UT over B-scan?,Real-time image,Detailed cross-section,High flaw location accuracy,Easy to interpret shape,C,UT,Level 2
+"In UT, what does DAC stand for?",Dynamic Amplitude Curve,Distance Amplitude Correction,Distance Alignment Curve,Damping and Correction,B,UT,Level 2
+What is the typical probe angle for UT weld inspection?,30°,45°,60°,90°,C,UT,Level 2
+What is the major function of couplant in UT?,Reduce velocity,Eliminate noise,Transmit sound,Block echoes,C,UT,Level 2
+Which scan mode provides a 2D image in UT?,A-scan,C-scan,B-scan,D-scan,C,UT,Level 2
+What does UT use to detect internal flaws?,Light,Magnetic field,X-rays,Sound waves,D,UT,Level 2
+What is used to represent flaw amplitude in UT?,B-scan height,DAC curve,TOFD line,Signal duration,B,UT,Level 2
+Which material gives poor UT transmission?,Steel,Copper,Lead,Aluminum,C,UT,Level 2
+"In UT, what reduces beam divergence?",Low frequency,High frequency,Large probe,Thick couplant,B,UT,Level 2
+What is used in UT for angle calibration?,Curved block,IIW Block,Distance block,Flat panel,B,UT,Level 2
+What is the role of couplant in ultrasonic testing?,Improve flaw detection,Prevent echo,Transmit sound from probe to part,Reduce thickness,C,UT,Level 2
+What is the function of angle probe in UT?,Detect surface flaws,Transmit vertical beam,Detect planar flaws,Improve coupling,C,UT,Level 2
+What controls penetration in UT?,Material temperature,Beam angle,Frequency and material,Couplant thickness,C,UT,Level 2
+What is the typical range for UT shear wave angle?,0°–30°,30°–45°,45°–70°,70°–90°,C,UT,Level 2
+What unit measures UT pulse repetition frequency?,mm/s,MHz,Hz,Volt,C,UT,Level 2
+Which material is difficult for UT?,Aluminum,Steel,Rubber,Lead,D,UT,Level 2
+"In UT, what does a double echo suggest?",Two flaws,Flaw + backwall,Coupling issue,Reflection from boundary,B,UT,Level 2
+What causes a loss of backwall echo in UT?,Surface crack,Porosity,Lack of coupling,Delamination,D,UT,Level 2
+"In UT, what does TOFD stand for?",Time of Flaw Depth,Time of Flight Diffraction,Thickness Over Flaw Distance,Transducer of Flaw Detection,B,UT,Level 2
+"In UT, which material requires higher frequency probes?",Steel,Aluminum,Rubber,Lead,B,UT,Level 2
+What is mode conversion in UT?,Conversion of amplitude,Reflection at flaw,Wave type change at boundary,Multiple echoes,C,UT,Level 2
+"In UT, which wave is fastest?",Shear,Surface,Longitudinal,Transverse,C,UT,Level 2
+What is skip distance in UT?,Beam travel inside wedge,Distance to first backwall echo,Probe center to first reflection point,Thickness range,C,UT,Level 2
+"In UT, what is the near field?",Area behind flaw,Region close to probe,Reflection zone,Couplant zone,B,UT,Level 2
+"In UT, what is used to identify exact flaw location?",B-scan,DAC,Time base,Distance-to-echo,D,UT,Level 2
+What can cause probe wear in UT?,Excess couplant,Rough surface,Low gain,Small flaw,B,UT,Level 2
+"In UT, what does probe index point refer to?",Center of beam spread,Location of flaw,Point of maximum gain,Center of transducer face,D,UT,Level 2
+What is used to focus sound in UT?,Filter,Lens,Focusing crystal,Beam former,C,UT,Level 2
+What wave is used for surface inspection in UT?,Longitudinal,Shear,Surface (Rayleigh),Transverse,C,UT,Level 2
+"In UT, what helps distinguish flaw types?",Time base,DAC curve,Echo pattern,Shear wave,C,UT,Level 2
+What flaw gives multiple echoes in UT?,Crack,Lack of fusion,Delamination,Porosity,D,UT,Level 2
+Which technique in UT allows for flaw sizing?,Pulse-echo,TOFD,B-scan,Contact method,B,UT,Level 2
+What is the difference between shear and surface waves in UT?,Speed,Direction,Depth of penetration,All of the above,D,UT,Level 2
+"In UT, what does echo amplitude relate to?",Flaw size,Flaw location,Material thickness,Velocity,A,UT,Level 2
+"In UT, what happens when the probe is tilted?",Beam weakens,Echo doubles,False indications,Sound direction changes,D,UT,Level 2
+What is beam divergence in UT?,Echo amplification,Loss of flaw signal,Sound spreading,Surface bouncing,C,UT,Level 2
+"In UT, what causes backwall echo loss?",Porosity,Lack of fusion,Delamination,Improper scanning,C,UT,Level 2
+"In UT, what is near field distance dependent on?",Material type,Frequency and probe size,Temperature,Couplant,B,UT,Level 2
+What does a large UT signal indicate?,Large flaw,Clean surface,Weak echo,Low velocity,A,UT,Level 2
+"In UT, what improves defect sizing?",Shear wave,Pulse length,Beam divergence,Couplant type,A,UT,Level 2
+"In UT, what does DAC curve help with?",Identify frequency,Size flaws,Time delay,Improve couplant,B,UT,Level 2
+What helps locate deep flaws in UT?,Low frequency,High velocity,Broad beam,Small crystal,A,UT,Level 2
+What affects flaw detection in angled UT scanning?,Angle of beam,Size of flaw,Speed,All of the above,D,UT,Level 2
+What helps measure flaw depth in UT?,A-scan,Time-of-Flight,Pulse delay,All of the above,D,UT,Level 2
+"In UT, which parameter controls beam focus?",Frequency,Wedge angle,Probe size,Aperture,D,UT,Level 2
+"In UT, what does excessive couplant cause?",Signal loss,Strong echoes,No effect,Beam shift,A,UT,Level 2
+"In UT, what results from surface roughness?",Backwall echo,Multiple indications,Scattering,No signal,C,UT,Level 2
+What causes echo loss in UT?,Proper alignment,Beam scattering,Backwall reflection,Gain increase,B,UT,Level 2
+"In UT, which parameter controls beam focus?",Frequency,Wedge angle,Probe size,Aperture,D,UT,Level 2
+"In UT, what does excessive couplant cause?",Signal loss,Strong echoes,No effect,Beam shift,A,UT,Level 2
+"In UT, what results from surface roughness?",Backwall echo,Multiple indications,Scattering,No signal,C,UT,Level 2
+What causes echo loss in UT?,Proper alignment,Beam scattering,Backwall reflection,Gain increase,B,UT,Level 2
+"In UT, what is beam angle critical for?",Sensitivity,Defect depth,Flaw orientation detection,Velocity control,C,UT,Level 2
+"In UT, what does delay line help with?",Signal enhancement,Near-surface flaw detection,Beam focusing,Time delay,B,UT,Level 2
+What causes echo duplication in UT?,Reflection from boundaries,Equipment lag,Gain settings,Surface coatings,A,UT,Level 2
+"In UT, what improves shallow flaw detection?",Low frequency,High frequency,Delay line,Angle probe,C,UT,Level 2
+What causes signal echo doubling in UT?,High gain,Defect overlap,Beam bouncing,Dual probe,C,UT,Level 2
+What is critical for flaw sizing in UT?,Beam focus,Echo amplitude,Flaw angle,Time base,B,UT,Level 2
+What UT technique gives flaw depth directly?,TOFD,B-scan,Pulse-echo,C-scan,A,UT,Level 2
+What limits sensitivity in UT?,Gain level,Couplant quality,Probe angle,All of the above,D,UT,Level 2
+"In UT, what causes loss of resolution?",High frequency,Small flaw,Broad beam,Rough surface,C,UT,Level 2
+What reduces backwall echo in UT?,Large flaw,Soft material,Beam scattering,Improper couplant,C,UT,Level 2
+What enhances flaw detection in UT shear wave?,Beam focusing,Large couplant,Delay line,Angle wedge,D,UT,Level 2
+What causes ghost echoes in UT?,Multipath reflection,Flaw size,Weak beam,High velocity,A,UT,Level 2
+What does “A-scan” display in UT?,Cross-section image,Flaw depth and amplitude,Real-time flaw map,Beam angle,B,UT,Level 2
+"In UT, what does beam divergence affect?",Resolution,Frequency,Material velocity,Impedance,A,UT,Level 2
+What does the skip distance in UT depend on?,Beam angle,Part shape,Couplant,Probe size,A,UT,Level 2
+"In UT, what reduces dead zone effect?",Delay block,Angle probe,Backwall gain,Time gate,A,UT,Level 2
+What probe angle is used in weld UT?,0°,45°,60°,70°,B,UT,Level 2
+What is the skip distance in UT shear wave?,One full V-path,Two half paths,Straight beam length,Probe width,A,UT,Level 2
+"In UT, what indicates a discontinuity?",Backwall echo,Loss of signal,Intermediate echo,Sharp spike,C,UT,Level 2
+What improves flaw sizing in UT?,Focused transducer,High gain,Multiple scans,All of the above,D,UT,Level 2
+What can cause fogging in RT film?,Proper washing,Long storage,Correct fixer,Clean water,B,RT,Level 2
+What causes mottling in RT?,Uneven exposure,Film aging,Static electricity,Low developer,A,RT,Level 2
+What is the effect of low kV in RT?,Sharp contrast,Poor penetration,High dose,Clear IQI,B,RT,Level 2
+What can cause fogging in RT film?,Proper washing,Long storage,Correct fixer,Clean water,B,RT,Level 2
+What causes streaks on RT film?,Dirty water,Light exposure,Damaged cassette,Improper handling,A,RT,Level 2
+What helps control contrast in RT?,Developer type,Film speed,Exposure control,Film thickness,C,RT,Level 2
+What leads to overexposed RT film?,Short SFD,Long exposure time,Low voltage,High humidity,B,RT,Level 2
+What causes low contrast in RT images?,Short exposure,High temperature,Fogged film,Excessive radiation,D,RT,Level 2
+What does IQI in RT stand for?,Image Quality Indicator,Internal Quality Inspection,Infrared Quality Imaging,Image Quick Insight,A,RT,Level 2
+What causes film reticulation in RT?,Improper drying,Incorrect fixer,Uneven washing,Temperature shock,D,RT,Level 2
+What causes blurring in RT images?,High SFD,Short exposure,Film movement,Excess developer,C,RT,Level 2
+What artifact appears on RT film from light leaks?,Graininess,Static marks,Dark fogging,Streaks,C,RT,Level 2
+What enhances edge definition in RT?,Low kV,Sharp focus,High temperature,Long film,B,RT,Level 2
+What error appears if fixer is weak in RT?,Poor contrast,Sticky film,Brown patches,White haze,C,RT,Level 2
+"In RT, what is the role of screen in cassette?",Absorb light,Improve resolution,Filter scatter,Support film,C,RT,Level 2
+"In RT, what can be used to reduce scatter radiation?",Filter,Grid,Intensifying screen,Fog meter,B,RT,Level 2
+What causes uneven density in RT film?,Temperature,Scatter radiation,Uneven exposure,Poor washing,C,RT,Level 2
+What RT film defect results from light exposure?,Overdevelopment,Fogging,Reticulation,Emulsion peel,B,RT,Level 2
+What causes static discharge artifacts in RT?,Humidity,Grounding failure,Handling film,Temperature,C,RT,Level 2
+What causes “white patch” in RT film?,Overwashing,Developer splash,Fixer residue,Fogging,C,RT,Level 2
+What causes darkening of RT film without exposure?,Improper storage,Long development,Developer contamination,All of the above,D,RT,Level 2
+What causes film underdevelopment in RT?,Cold developer,High voltage,Dirty film,Overwash,A,RT,Level 2
+What causes screen marks on RT film?,Cracked cassette,Intensifying screen damage,Poor fixer,Excess water,B,RT,Level 2
+What results from exhausted fixer in RT?,High contrast,Yellowing,No image,Extra fog,B,RT,Level 2

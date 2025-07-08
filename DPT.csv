@@ -1,0 +1,214 @@
+Question,Option A,Option B,Option C,Option D,Answer
+Which penetrant type offers the highest sensitivity?,Visible Type II,Fluorescent Type I,Solvent removable,Post-emulsifiable,B
+What is the purpose of developer in penetrant testing?,Enhance visibility,Remove excess dye,Act as cleaning agent,Seal discontinuity,A
+Which PT system allows post-emulsification?,Method A,Method B,Method C,Method D,C
+Which defect can PT not detect?,Surface crack,Surface porosity,Subsurface void,Weld undercut,C
+What is the recommended light intensity for visible PT inspection?,50 lux,100 lux,1000 lux,500 lux,C
+Which penetrant method is best for field testing?,Water-washable,Post-emulsifiable,Solvent removable,Fluorescent,C
+What type of discontinuity does PT best detect?,Subsurface void,Surface-breaking crack,Inclusion,Lack of penetration,B
+Which cleaning method is best before PT?,Wire brushing,Grinding,Solvent cleaning,Sand blasting,C
+"In PT, which step removes excess penetrant?",Developer,Rinsing,Emulsification,Drying,B
+Which NDT method is most suitable for complex geometries?,UT,ET,PT,RT,C
+Why are fluorescent dyes used in PT?,Cheaper,Easier to apply,Higher visibility under UV,For daytime testing,C
+What is the main reason to use water-based developer in PT?,Low cost,Easy cleaning,Better contrast,Environmental safety,C
+What is dwell time in PT?,Cleaning time,Drying time,Time for dye to enter flaws,Time for inspection,C
+Which type of defect is indicated by irregular indications in PT?,Porosity,Crack,Inclusion,Lack of fusion,A
+Why is pre-cleaning required in PT?,Save cost,Remove surface contaminants,Improve developer,Fast drying,B
+What is the typical light intensity required for PT inspection?,500 lux,800 lux,1000 lux,1500 lux,C
+Which of these is a linear indication?,Crack,Porosity,Inclusion,Lamination,A
+Which PT system uses both water and emulsifier?,Type I,Type II,Post-emulsifiable,Solvent removable,C
+What causes excessive background in PT?,Overwashing,Underdevelopment,Too much penetrant,Low viscosity,C
+Which UV-A wavelength range is ideal for PT?,200–300 nm,315–400 nm,400–500 nm,100–200 nm,B
+What is used to remove excess penetrant?,Water,Emulsifier,Cleaner,All of the above,D
+Why is filter used in PT process?,Block visible light,Enhance UV,Filter dye,Increase sensitivity,B
+What defect appears as cluster indications in PT?,Crack,Porosity,Inclusion,Lack of fusion,B
+Which flaw is not detected by PT?,Surface crack,Weld undercut,Subsurface void,Surface pit,C
+What is the color of visible dye in PT testing?,Red,Yellow,Green,Blue,A
+Which method is suitable for detecting microcracks on turbine blades?,UT,MT,PT,RT,C
+What is the commonly used penetrant developer for PT?,Dry powder,Oil-based,Solvent,Paste,A
+What causes linear indications in PT to appear sharper?,Orientation of crack,Proper cleaning,High viscosity dye,Deep flaws,D
+What is the primary advantage of PT over other methods?,High depth detection,No need for electricity,Detect surface-breaking flaws,Non-metal inspection,C
+"In PT, which material condition can affect test results?",Dirty surface,Conductivity,Thickness,Heat treatment,A
+Which instrument is used to measure UV light intensity in PT?,Lux meter,Radiometer,Dosimeter,Thermometer,B
+What does black light refer to in NDT?,Infrared light,Ultraviolet light,X-ray,Visible light,B
+What can cause uneven indications in PT?,Wrong dye,Improper cleaning,Excess developer,Over washing,B
+"In PT, why use emulsifier?",Improve indication,Remove excess dye,Protect surface,Enhance developer,B
+"In PT, what is the ideal temperature range during testing?",5–15°C,10–25°C,10–50°C,20–30°C,C
+What is a primary cause of false indications in PT?,Excess dye,Long dwell time,Dirty surface,Strong UV,C
+What causes bleeding in PT inspection?,Too much developer,Excess dye,Over-cleaning,Short dwell time,B
+What does the term “contrast ratio” mean in PT?,Ratio of light to dark,Dye color comparison,Developer thickness,Surface area ratio,A
+Which PT system requires post-emulsification?,Type I,Method A,Method B,Method D,C
+What is used to confirm UV lamp intensity?,Lux meter,Radiometer,Thermometer,Gauss meter,B
+What is the recommended light intensity for fluorescent PT?,100 lux,500 lux,1000 lux,1000 µW/cm² UV-A,D
+What causes halo in PT?,Wrong emulsifier,Too much developer,Excess penetrant,Improper UV,C
+What is the typical dwell time in PT?,1–2 mins,5–10 mins,15–30 mins,60 mins,B
+What is the best way to enhance PT sensitivity?,Longer dwell time,Stronger UV,Higher viscosity,Use of emulsifier,A
+What is the most common cause of under indications in PT?,Under washing,Under developing,Low dye strength,Surface contamination,D
+What does a ‘clean indication’ in PT mean?,Clear flaw edge,Sharp color,Deep flaw,Easy removal,A
+What influences dwell time in PT?,Flaw size,Material roughness,Penetrant type,All of the above,D
+Which UV wavelength is used in fluorescent PT?,200 nm,320–400 nm,100–150 nm,450–500 nm,B
+What is an advantage of fluorescent PT over visible PT?,Easier to clean,Works in sunlight,Higher sensitivity,Less equipment,C
+Why is the emulsifier dwell time important in PT?,Dye penetration,Indication brightness,Dye removal,Developer reaction,C
+Why is proper drying important before developer application in PT?,Prevent dye removal,Ensure brightness,Avoid false indications,Improve adhesion,C
+What flaw appears as clustered dots in PT?,Crack,Porosity,Lack of penetration,Undercut,B
+"In PT, which surface roughness gives best results?",Mirror finish,Slightly rough,Very rough,Oxidized,B
+"Why is dye penetrant considered a ""non-volumetric"" test?",Detects only open flaws,No X-rays used,No calibration required,Surface method only,D
+What helps verify contrast in PT?,Emulsifier,UV light,Developer,Lighting,C
+What type of PT dye is visible under UV light?,Emulsified,Fluorescent,Non-aqueous,Water-washable,B
+What is the purpose of filter in PT UV lamp?,Increase brightness,Block visible light,Improve dye color,Reduce glare,B
+"In PT, what causes background noise on the surface?",Developer residue,Surface contamination,Long drying time,Weak UV lamp,B
+What helps eliminate halo effect in PT?,Proper dwell time,Stronger dye,Thorough pre-cleaning,High-intensity UV,C
+What effect does coarse surface have on PT?,Improves contrast,Reduces dye entry,Increases bleed,Reduces washability,B
+What is the primary role of the developer in PT?,Enhance visibility,React chemically,Clean surface,Absorb dye,A
+What can cause excessive background in PT?,Weak developer,High humidity,Incomplete emulsification,Strong UV,C
+What happens if developer is applied to a wet PT surface?,Better result,No effect,False indications,Cleaner indication,C
+What is the wavelength of light used in visible dye PT?,254 nm,313 nm,460 nm,600 nm,D
+Which PT method allows water-based cleaning?,Method A,Method C,Method D,Method B,A
+What does a sharp indication in PT suggest?,Deep flaw,Surface crack,Wide porosity,Blister,B
+What is the first step in PT inspection?,Drying,Developer application,Cleaning,Emulsification,C
+What is the purpose of water break test in PT?,Check roughness,Check cleanliness,Check dye quality,Verify flaw,B
+What is the visible sign of flaw in PT?,Wet area,Bright indication,Dry patch,Fluorescent patch,B
+What is the ideal surface condition for PT?,Oily,Painted,Rusty,Clean and dry,D
+What is a drawback of visible PT systems?,Cost,Low temperature resistance,Low sensitivity,Safety,C
+What affects the sensitivity of PT the most?,Dye color,Surface roughness,Developer quantity,Application time,B
+"In PT, excessive developer causes?",Clear indication,Masking of flaws,Flaw enhancement,No impact,B
+"In PT, which cleaner is preferred before applying penetrant?",Acid wash,Oil remover,Solvent cleaner,Water,C
+"In PT, how can you verify surface cleanliness?",Water break test,Dye test,Solvent wipe,Surface meter,A
+Which defect shows as bright cluster in PT?,Crack,Undercut,Porosity,Incomplete fusion,C
+Which developer is used in fluorescent PT?,Dry developer,Water-based,Non-aqueous,None needed,C
+What is the wavelength of UV light used in PT/MT?,100–200 nm,320–400 nm,400–500 nm,600–700 nm,B
+"In PT, what does incomplete removal of penetrant cause?",False negative,False positive,No result,High sensitivity,B
+"In PT, which property affects dye penetration ability?",Surface tension,Viscosity,Both A and B,Color,C
+"In PT, which type of indication appears blurred and undefined?",Non-relevant,Relevant,Sharp crack,Clean flaw,A
+What is the preferred developer for sensitive PT inspections?,Aqueous,Non-aqueous wet,Dry,Powdered,B
+"What causes ""halo"" in PT indication?",High viscosity dye,Excess dwell time,Excess emulsification,Improper cleaning,C
+What does UV-A light do in PT?,React with dye,Highlight flaws,Clean surface,Cool part,B
+What is a key limitation of PT on rough surfaces?,Poor dye penetration,Increased background,Low visibility,All of the above,D
+What is the function of dwell time in PT?,Clean surface,Absorb dye,Allow dye to enter flaws,React with light,C
+What reduces test effectiveness in PT after excessive time?,Dye drying,Surface oxidation,Over-developer,Dye absorption,A
+Which dye is used in fluorescent penetrant testing?,Rhodamine,Uranine,Fluorescein,Dye 49,A
+What is the typical range of dwell time in PT?,1–2 min,5–30 min,30–60 min,60–90 min,B
+What is the indication of deep surface crack in PT?,Diffused patch,Sharp and linear,Circular indication,No indication,B
+What lighting condition is required for PT interpretation?,Darkroom,Daylight,UV light,Adequate white light,D
+Which PT method is most suitable for field work?,Water-washable,Post-emulsifiable,Solvent-removable,Dual sensitivity,C
+What is the purpose of water break test in PT?,Flaw detection,Surface cleanliness check,Developer effect,Dye spread,B
+What is used in PT to increase contrast under UV light?,Optical filter,UV enhancer,Fluorescent dye,Emulsifier,C
+"In PT, what is a common cause of false positive?",Improper emulsification,Clean surface,Excess dye,Dry developer,A
+What is the role of emulsifier in PT?,Remove excess dye,Enhance dye penetration,Increase viscosity,Improve drying,A
+Which indication in PT may indicate a fine crack?,Diffused spot,Blurry round,Sharp linear,No indication,C
+What improves flaw detectability in PT?,Longer dwell time,Shorter drying time,Low contrast,High surface roughness,A
+What is the best method to detect surface cracks in non-ferrous metals?,VT,PT,MT,ET,B
+What is a disadvantage of PT on porous surfaces?,Overcleaning,Dye retention,Long drying time,Weak contrast,B
+What is the usual developer used in PT?,Solvent,Emulsion,Dry powder,Paint,C
+What kind of flaws show as irregular shapes in PT?,Fatigue crack,Corrosion,Grinding crack,Slag,B
+"In PT, which method is safest for field application?",Water washable,Post-emulsifiable,Solvent removable,Fluorescent,C
+Which PT technique allows highest flaw detection sensitivity?,Solvent removable,Post-emulsifiable fluorescent,Water washable,Dry developer,B
+What is the effect of improper developer in PT?,Faint indications,Strong indications,No change,Sharpened flaw edge,A
+"In PT, how are excess penetrant removals validated?",Surface drying,Water break test,Visual comparison,UV illumination,B
+"In PT, what does excessive dwell time lead to?",False positives,Dye evaporation,Better results,Delayed development,B
+Which method is best for inspecting weld bead surface porosity?,VT,UT,MT,PT,D
+"In PT, what is the role of developer?",Clean surface,Draw penetrant out of flaws,Block unwanted indications,Remove emulsifier,B
+What is an example of non-relevant indication in PT?,Fingerprint,Sharp linear crack,Rounded porosity,Corrosion pit,A
+"In PT, which flaw orientation shows best under fluorescent dye?",Transverse,Angled,Linear open to surface,Subsurface,C
+"In PT, why is pre-cleaning important?",Helps drying,Prevents false indications,Improves contrast,Lowers viscosity,B
+What is the ideal lighting condition for PT interpretation?,Low light,UV light,White light (1000 lux),Yellow light,C
+Which method is most limited to surface-breaking flaws?,PT,ET,UT,RT,A
+Which method is best to detect hairline cracks in non-magnetic materials?,MT,PT,ET,RT,B
+What is the role of emulsifier in PT post-emulsifiable method?,Enhance dye,Remove background,React with developer,Make dye water washable,D
+What is the key requirement for accurate PT inspection?,High humidity,Dry and clean surface,Rusted surface,Colored surface,B
+What is the term for fine linear crack in PT indication?,Star burst,Sharp indication,Fingerprint,Hairline,D
+What is the main limitation of PT in rough surfaces?,No dye absorption,High visibility,Excessive background,Slower drying,C
+Which developer type is used in fluorescent PT?,Dry powder,Aqueous,Solvent,None,A
+What happens if dwell time is too short in PT?,Strong background,Incomplete flaw penetration,Fast drying,Better image,B
+"In PT, which surface defect is easiest to detect?",Porosity,Tight crack,Open crack,Delamination,C
+Which of the following causes false PT indications?,Smooth surface,Long dwell time,Residue on surface,UV light,C
+What method is preferred to detect surface cracks in aluminum?,VT,PT,MT,UT,B
+"In PT, which method provides highest visibility for small flaws?",Visible dye,Fluorescent dye,Emulsified dye,Water-washable dye,B
+What is the benefit of post-emulsifiable PT?,Quick application,High sensitivity,No cleaning needed,Fast drying,B
+What is the advantage of fluorescent PT over visible dye PT?,Cheaper,Easier cleanup,Better sensitivity,Less drying time,C
+"In PT, which step follows penetrant application?",Rinsing,Developing,Cleaning,Drying,A
+Which developer type is ideal for field PT?,Wet developer,Water-based,Solvent-based,Dry powder,D
+What can cause false indications in PT?,Proper dwell time,Over-cleaning,Residual penetrant,Correct lighting,C
+"In PT, what is emulsifier used for?",Enhance dye absorption,Make dye water-washable,Speed drying,Improve developer performance,B
+Which PT method gives highest sensitivity?,Solvent removable,Water washable,Post-emulsifiable fluorescent,Dry developer,C
+What is a common cause of high background in PT?,High humidity,Poor developer application,Excess penetrant not removed,Wrong dye used,C
+Which light is required for fluorescent PT inspection?,Blue,Yellow,UV-A,White,C
+What is the preferred method to detect tight cracks in PT?,Water-washable visible,Fluorescent post-emulsifiable,Solvent removable visible,Dry developer,B
+What type of developer is used in dry PT applications?,Water-based,Wet suspension,Solvent-based,Talc-like powder,D
+Which penetrant type has best washability?,Post-emulsifiable,Solvent removable,Water washable,Fluorescent,C
+What is the preferred method for rough surface PT inspection?,Fluorescent dye,Post-emulsifiable,Water washable,Solvent removable,D
+Which step ensures dye penetrant is removed properly?,Pre-cleaning,Developer application,Post-cleaning,Emulsification,D
+What is developer’s role in PT?,Clean surface,Absorb light,Draw out penetrant,Remove excess dye,C
+Which cleaning method is preferred before PT?,Abrasive blasting,Chemical cleaning,Water wash,Wire brushing,B
+Which flaw type is easiest to detect in PT?,Internal void,Fatigue crack,Lamination,Subsurface porosity,B
+What is the most sensitive PT method?,Water-washable fluorescent,Solvent removable visible,Post-emulsifiable fluorescent,Visible dye,C
+What happens if excess developer is applied in PT?,Enhanced flaw visibility,Blurred indications,High sensitivity,Clean background,B
+Which surface condition negatively impacts PT sensitivity?,Smooth surface,Oily surface,Polished surface,Dry surface,B
+What is the primary limitation of visible dye PT?,High cost,Low visibility,Low sensitivity,Limited temperature range,C
+"In PT, what is the role of pre-cleaning?",Increase dye color,Improve adhesion,Remove surface contaminants,Speed up drying,C
+What causes poor penetration in PT?,Short dwell time,High temperature,Thick developer,Long drying,A
+What is emulsifier contact time in PT?,1–5 sec,10–20 sec,30–60 sec,2–5 min,B
+What is a common PT flaw indication?,Rough surface,Blurry dye mark,Sharp bleed-out,Light streak,C
+What does over-washing in PT cause?,Cleaner image,Fading of indications,Better contrast,Developer build-up,B
+"In PT, which factor affects bleed-out visibility?",Surface finish,Dye color,Flaw width,Developer type,D
+What is the purpose of developer in PT?,Remove background,Clean flaws,Draw penetrant to surface,Add color,C
+What flaw is easily missed by water-washable PT?,Porosity,Deep cracks,Fatigue cracks,Wide open cracks,B
+"In PT, what step comes right after applying the penetrant?",Post-emulsifying,Developer application,Dwell time,Rinsing,C
+What does dwell time ensure in PT?,Penetrant flows over part,Penetrant enters discontinuities,Surface dries,Dye evaporates,B
+What can affect dye visibility in PT?,Temperature,Color blindness,Developer,All of the above,D
+What is the effect of insufficient developer in PT?,Overexposed image,Missed fine cracks,Strong bleed-out,Better sensitivity,B
+What is the best indication of tight crack in PT?,Strong bleed-out,Diffused line,Sharp linear indication,Blurry patch,C
+What is the final step in PT testing?,Pre-cleaning,Developer application,Final inspection,Rinsing,C
+"In PT, what is the main cause of false indications?",Flawed dye,Overwashing,Contaminated surface,High temperature,C
+What is the dwell time for fluorescent PT typically?,5 minutes,30 seconds,10 seconds,10 minutes,A
+"What does the term ""open-to-surface"" mean in PT?",Large flaw,Surface-connected flaw,Small invisible flaw,Shallow defect,B
+What developer type is used for fluorescent PT?,Wet developer,Dry powder,Solvent-based,Water spray,A
+What leads to false indications in PT?,Excess developer,Overdrying,Dirty surface,Under washing,C
+What affects dye migration in PT?,Developer,Part geometry,Surface tension,All of the above,D
+What step comes last in PT?,Rinse,Inspection,Dwell,Developer application,B
+What enhances bleed-out in PT?,High viscosity,Long dwell time,Cold developer,Short drying,B
+What happens if penetrant is not removed properly?,No indication,Background interference,Blurry image,High contrast,B
+"What does ""indication"" mean in PT?",Defect,Flaw visualization,Crack only,Dye visibility,B
+What can be used for developer application in PT?,Brush,Air gun,Dipping,All of the above,D
+What is the ideal dwell time in PT for critical components?,10 sec,1 min,5 min,15 min,C
+Which PT method is best for tight cracks?,Water washable,Post-emulsifiable,Solvent removable,Fluorescent,B
+What step follows pre-cleaning in PT?,Drying,Penetrant application,Developer application,Inspection,B
+What does developer do in PT?,Remove dye,Absorb radiation,Enhance bleed-out,Heat part,C
+What is the ideal dwell time in PT for critical components?,10 sec,1 min,5 min,15 min,C
+Which PT method is best for tight cracks?,Water washable,Post-emulsifiable,Solvent removable,Fluorescent,B
+What step follows pre-cleaning in PT?,Drying,Penetrant application,Developer application,Inspection,B
+What does developer do in PT?,Remove dye,Absorb radiation,Enhance bleed-out,Heat part,C
+What flaw type is PT least effective for?,Surface crack,Deep porosity,Open-to-surface voids,Fatigue cracks,B
+What should be done after PT inspection?,Wipe off developer,Wash with solvent,Record and clean part,Retest immediately,C
+"In PT, what type of indication is irregular in shape?",Crack,FALSE,Porosity,Lack of fusion,C
+"In PT, what helps increase flaw visibility?",High surface temperature,Smooth surface,Rough grinding,Uneven developer,B
+Which PT type provides highest sensitivity?,Fluorescent post-emulsifiable,Water-washable,Solvent-removable,Visible dye,A
+What happens if PT dwell time is too short?,Clear bleed-out,No indication,Overdevelopment,Background interference,B
+What is the major cause of false indications in PT?,Excessive developer,Improper cleaning,Low temperature,Strong light,B
+What helps remove background in PT?,Hot water wash,Emulsifier,Surface brushing,Retesting,B
+What happens if developer is over-applied in PT?,Increased bleed-out,False indications,Fading,Extra drying time,B
+What is bleed-out time in PT dependent on?,Crack width,Dye color,Surface finish,Developer quality,A
+What defect appears as linear indication in PT?,Incomplete fusion,Porosity,Undercut,Cold shut,D
+What is the first step in PT?,Cleaning,Developer application,Dye application,Drying,A
+What is the function of developer in PT?,Absorb dye,Clean part,Attract dye to surface,Make flaws visible,D
+What is the ideal temperature range for PT developer?,5–10°C,10–20°C,20–30°C,30–40°C,C
+What is the purpose of emulsifier in PT?,Dye removal,Enhance bleed-out,Increase brightness,Increase contrast,A
+What helps dry parts faster in PT?,Heat gun,UV light,Compressed air,Warm developer,A
+"In PT, what flaw gives sharp linear indication?",Crack,Porosity,Inclusion,Cavity,A
+What is used to detect fine discontinuities in PT?,High-viscosity dye,Fluorescent penetrant,Emulsifier,Developer thickness,B
+What PT method gives highest visibility?,Visible dye,Water washable,Fluorescent,Solvent-removable,C
+What helps PT indications stand out?,Black background,Blue light,Warm surface,Dry air,A
+What causes blurring in RT images?,High SFD,Short exposure,Film movement,Excess developer,C
+What artifact appears on RT film from light leaks?,Graininess,Static marks,Dark fogging,Streaks,C
+What enhances edge definition in RT?,Low kV,Sharp focus,High temperature,Long film,B
+What error appears if fixer is weak in RT?,Poor contrast,Sticky film,Brown patches,White haze,C
+"In RT, what is the role of screen in cassette?",Absorb light,Improve resolution,Filter scatter,Support film,C
+"In RT, what can be used to reduce scatter radiation?",Filter,Grid,Intensifying screen,Fog meter,B
+What causes uneven density in RT film?,Temperature,Scatter radiation,Uneven exposure,Poor washing,C
+What RT film defect results from light exposure?,Overdevelopment,Fogging,Reticulation,Emulsion peel,B
+What causes static discharge artifacts in RT?,Humidity,Grounding failure,Handling film,Temperature,C
+What causes “white patch” in RT film?,Overwashing,Developer splash,Fixer residue,Fogging,C
+What causes darkening of RT film without exposure?,Improper storage,Long development,Developer contamination,All of the above,D
+What causes film underdevelopment in RT?,Cold developer,High voltage,Dirty film,Overwash,A
+What causes screen marks on RT film?,Cracked cassette,Intensifying screen damage,Poor fixer,Excess water,B
+What results from exhausted fixer in RT?,High contrast,Yellowing,No image,Extra fog,B
